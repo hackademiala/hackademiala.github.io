@@ -1,0 +1,37 @@
+// Base scss file
+
+html, body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    font-weight: $base-font-weight;
+}
+
+.small {
+    font-size: $small-font-size;
+}
+
+// Links
+a {
+    color: darken($brand-color, 2%);
+
+    &:visited {
+        color: darken($brand-color, 10%);
+    }
+}
+
+// Buttons
+button {
+    background-color: rgba(0, 0, 0, 0);
+    border: 5px solid $brand-color;
+    color: $brand-color;
+    font-size: $base-font-size * 1.25;
+    padding: 10px 20px;
+    text-align: center;
+    transition: all 150ms ease;
+
+    &:hover {
+        background-color: $brand-color;
+        color: #fff;
+        transition: all 150ms ease;
+    }
+}

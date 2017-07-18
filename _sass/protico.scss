@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+// A Jekyll theme based off of Minima
+// Uses normalize.scss
+
+$base-font-family: "Montserrat", sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+
+// Colors
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #00e094 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+@import "protico/normalize", "protico/base", "protico/cover";
