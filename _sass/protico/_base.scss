@@ -1,9 +1,21 @@
 // Base scss file
 
 html, body {
+    background-color: $background-color;
     font-family: $base-font-family;
     font-size: $base-font-size;
     font-weight: $base-font-weight;
+    height: 100%;
+}
+
+.page-content {
+    min-height: 100%;
+    margin-bottom: -250px;
+
+    &:after {
+        content: "";
+        display: block;
+    }
 }
 
 .small {
