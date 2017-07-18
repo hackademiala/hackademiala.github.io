@@ -1,0 +1,29 @@
+.page-content {
+    margin: 0 auto;
+    max-width: 960px;
+    text-align: center;
+
+    h1 {
+        font-size: 4em;
+        letter-spacing: 6px;
+    }
+
+    p {
+        margin: 0 auto;
+        max-width: 720px;
+    }
+}
+
+.note {
+    border: 5px solid $brand-color;
+    line-height: 1.5;
+    margin: 15px auto;
+    margin-top: 60px;
+    max-width: 400px;
+    padding: 40px 20px;
+
+    h2 {
+        margin: 0;
+        padding: 0;
+    }
+}
