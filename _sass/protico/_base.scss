@@ -48,3 +48,9 @@ button {
         transition: all 150ms ease;
     }
 }
+
+.panel-cover {
+    button {
+        background-color: rgba(0, 0, 0, 0.75);
+    }
+}
