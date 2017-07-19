@@ -21,8 +21,9 @@
 
     img {
         display: block;
-        margin: 0 auto;
+        margin: 20px auto;
         text-align: center;
+        width: 30vw;
     }
 }
 
@@ -58,12 +59,12 @@
     }
 }
 
-@media screen and (min-width: 481px) and (max-width: 960px) {
+@media screen and (min-width: 481px) and (max-width: 1080px) {
     .panel-cover {
         height: 600px;
 
         h2 {
-            padding: 20px;
+            padding: 40px 20px;
         }
 
         img {
