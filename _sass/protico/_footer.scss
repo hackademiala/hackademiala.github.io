@@ -57,3 +57,41 @@ footer {
         border-top: 5px solid $brand-color;
     }
 }
+
+@media screen and (max-width: 1280px) {
+    footer {
+        .footer-col-wrapper {
+            .footer-col-1 {
+                padding: 40px 80px;
+                padding-right: 20px;
+            }
+        }
+    }
+    
+}
+
+@media screen and (max-width: 1080px) {
+    footer {
+        height: auto;
+        .footer-col-wrapper {
+            flex-direction: column;
+            text-align: center;
+
+            .footer-col-1 {
+                margin-top: 40px;
+                padding: 10px 60px;
+            }
+
+            .footer-col-2 {
+                padding: 10px 60px;
+            }
+
+            .footer-col-3 {
+                margin: 0 auto;
+                margin-bottom: 40px;
+                padding: 10px 60px;
+                position: relative;
+            }
+        }
+    }
+}
