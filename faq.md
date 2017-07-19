@@ -30,7 +30,7 @@ Yes, it can be seen [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). 
 It is recommended that you bring a laptop with case and or backpack, headphones, toiletries, reusable water bottle, charger, pillow and sleeping bag, and High School or Government ID. You should also bring any hardware you would like to hack on.
 
 ### Can I get a Travel Reimbursement?
-Unfortunately, we do not have the resources to provide a travel reimbursement. If you have any special needs, please contact [contact@hackademia.io](mailto:contact@hackademia.io) and we will help sort out your situation.
+Unfortunately, we do not have the resources to provide a travel reimbursement.
 
 ### What should I do if I have a question that you haven’t answered?
 Just send us an email at [contact@hackademia.io](mailto:contact@hackademia.io) and we will get back to you as soon as possible.
