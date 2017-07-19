@@ -18,7 +18,7 @@ All high schoolers (9th-12th grade) are eligible to attend Hackademia. You can c
 You can definitely still come! Everyone has to begin somewhere. Our mentors and workshops will help you learn and develop a dream project in 24 hours.
 
 ### What if I don’t have a team or idea?
-Don’t worry: there will be a matching session in the beginning of the hackathon where you can meet fellow hackers and be sorted into teams. Also, most hackers don’t have a complete idea until the beginning of the hackathon.
+Don’t worry; there will be a matching session in the beginning of the hackathon where you can meet fellow hackers and be sorted into teams. Also, most hackers don’t have a complete idea until the beginning of the hackathon.
 
 ### What are the prizes and awards (when we get there)?
 Currently, there are 1st, 2nd, and 3rd place medals and finalist pins, but the awards and prizes list will expand as we gain sponsors.
