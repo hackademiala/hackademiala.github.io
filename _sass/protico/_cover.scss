@@ -25,3 +25,47 @@
         text-align: center;
     }
 }
+
+@media screen and (min-height: 601px) {
+    .panel-cover {
+        height: 110vh;
+    }
+}
+
+@media screen and (max-height: 600px) {
+    .panel-cover {
+        height: 600px;
+
+        img {
+            width: 300px;
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .panel-cover {
+        height: 600px;
+
+        h2 {
+            padding: 20px;
+        }
+
+        img {
+            width: 300px;
+        }
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 960px) {
+    .panel-cover {
+        height: 600px;
+
+        h2 {
+            padding: 20px;
+        }
+
+        img {
+            width: 300px;
+        }
+    }
+}

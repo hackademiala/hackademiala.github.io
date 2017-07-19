@@ -6,6 +6,7 @@ html, body {
     font-size: $base-font-size;
     font-weight: $base-font-weight;
     height: 100%;
+    overflow-x: hidden;
 }
 
 .page-content {
