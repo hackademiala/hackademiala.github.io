@@ -1,0 +1,8 @@
+{% if site.data.faq %}
+    {% for qa in site.data.faq %}
+        <div class="faq-qad">
+            <h3>{{qa.question}}</h3>
+            <p>{{qa.answer}}</p>
+        </div>
+    {% endfor %}
+{% endif %}
