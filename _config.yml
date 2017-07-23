@@ -20,7 +20,7 @@ email: contact@hackademia.io
 description: > # this means to ignore newlines until "baseurl:"
   Hackademia is Southern California’s first hackathon by high schoolers, for high schoolers. 
   Our aim is to help hundreds of student hackers in the Los Angeles area realize their greatest 
-  coding potential in a 24 hour coding competition.
+  coding potential in 24 hours.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hackademia.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HackademiaLA
