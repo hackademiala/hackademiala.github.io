@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registered!
-permalink: /about/
+permalink: /registered.html
 ---
 
 ###You're registered!
