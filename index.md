@@ -14,3 +14,4 @@ A Hackathon is an event in which all sorts of hackers come together to innovativ
 {% endcapture %}
 
 {% include note.html heading="Wait, what's a hackathon?" content=note_hackathon %}
+{% include sponsors.html %}

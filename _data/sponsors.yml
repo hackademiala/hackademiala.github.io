@@ -1,4 +1,8 @@
-- name: Esri
-  image: esri.png
-- name: JPL
-  image: jpl.png
+# - name: Esri
+#   image: esri.png
+# - name: JPL
+#   image: jpl.png
+- name: Hack Plus
+  image: hack_plus.png
+- name: Hack Club
+  image: hack_club.png
