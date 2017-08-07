@@ -1,7 +1,9 @@
 # - name: Esri
 #   image: esri.png
-# - name: JPL
-#   image: jpl.png
+- name: JPL
+  image: jpl.png
+- name: NASA
+  image: nasa.png
 - name: Hack Plus
   image: hack_plus.png
 - name: Hack Club
