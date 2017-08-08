@@ -2,9 +2,13 @@
 #   image: esri.png
 - name: JPL
   image: jpl.png
+  height: 110
 - name: NASA
   image: nasa.png
+  height: 110
 - name: Hack Plus
   image: hack_plus.png
+  height: 110
 - name: Hack Club
   image: hack_club.png
+  height: 80
