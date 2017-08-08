@@ -3,12 +3,16 @@
 - name: JPL
   image: jpl.png
   height: 110
+  url: https://www.jpl.nasa.gov/
 - name: NASA
   image: nasa.png
   height: 110
+  url: https://www.nasa.gov/
 - name: Hack Plus
   image: hack_plus.png
   height: 110
+  url: http://hack.plus/
 - name: Hack Club
   image: hack_club.png
   height: 80
+  url: https://hackclub.com/
