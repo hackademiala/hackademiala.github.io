@@ -1,5 +1,3 @@
-# - name: Esri
-#   image: esri.png
 - name: JPL
   image: jpl.png
   height: 110
@@ -16,3 +14,7 @@
   image: hack_club.png
   height: 80
   url: https://hackclub.com/
+- name: Esri
+  image: esri.png
+  height: 110
+  url: http://www.esri.com/
