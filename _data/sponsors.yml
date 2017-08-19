@@ -9,7 +9,7 @@
 - name: Hack Plus
   image: hack_plus.png
   height: 110
-  url: http://hack.plus/
+  url: http://hackplus.io/
 - name: Hack Club
   image: hack_club.png
   height: 80
