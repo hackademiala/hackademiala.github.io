@@ -18,3 +18,7 @@
   image: esri.png
   height: 110
   url: http://www.esri.com/
+- name: Wix
+  image: wix.png
+  height: 80
+  url: https://www.wix.com/
