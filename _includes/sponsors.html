@@ -1,7 +1,7 @@
 <div class="panel sponsors-panel">
     <h1>OUR SPONSORS</h1>
     {% for sponsor in site.data.sponsors %}
-    <a href="{{sponsor.url}}">
+    <a href="{{sponsor.url}}" style="text-decoration: none;">
         <img height="{{sponsor.height}}" src="./assets/sponsors/{{sponsor.image}}" alt="{{sponsor.name}}"/>
     </a>
     {% endfor %}
